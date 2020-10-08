@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/puja1/Desktop/masters/Sem2/seminar/MQTT-Paho-Client/MQTT-Paho-Client/lib/commons-cli-1.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/puja1/Desktop/masters/Sem2/seminar/MQTT-Paho-Client/MQTT-Paho-Client/lib/log4j-1.2.17.jar"/>
-	<classpathentry kind="lib" path="C:/Users/puja1/Desktop/masters/Sem2/seminar/MQTT-Paho-Client/MQTT-Paho-Client/lib/org.eclipse.paho.client.mqttv3-1.0.2.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="output" path="bin"/>
-</classpath>
